@@ -1,4 +1,4 @@
-# BMR
+# MGNN
 
 ## This is the code for our paper "Leveraging Brain Modularity Prior for Interpretable Representation Learning of fMRI"[arXiv](http://arxiv.org/abs/2306.14080)
 
