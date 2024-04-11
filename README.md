@@ -3,9 +3,11 @@
 ## This is the code for our paper "Leveraging Brain Modularity Prior for Interpretable Representation Learning of fMRI"[arXiv](http://arxiv.org/abs/2306.14080)
 
 
-##Cite as: arXiv:2306.14080 [q-bio.QM]  (or arXiv:2306.14080v1 [q-bio.QM] for this version)
+##Cite as:
+Qianqian Wang, Wei Wang, Yuqi Fang, Pew-Thian Yap, Hongtu Zhu, Hong-Jun Li, Lishan Qiao, Mingxia Liu. 
+Leveraging Brain Modularity Prior for Interpretable Representation Learning of fMRI. IEEE Transactions on Biomedical Engineering, DOI: 10.1109/TBME.2024.3370415, 2024.
 
-https://arxiv.org/abs/2306.14080
+
 
 ## Abstract  
 
