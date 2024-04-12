@@ -1,6 +1,6 @@
 # MGNN
 
-## This is the code for our paper "Leveraging Brain Modularity Prior for Interpretable Representation Learning of fMRI"[arXiv](http://arxiv.org/abs/2306.14080)
+## Modularity-Constrained Graph Neural Network
 
 
 ## Cite as
